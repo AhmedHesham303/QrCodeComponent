@@ -25,10 +25,12 @@ body {
   background-color: white;
   border-radius: 2rem;
 }
-
-.qr-code-img {
-  border-radius: 1rem;
+img {
+  border-radius: 2rem;
+  display: block;
   width: 100%;
+}
+.qr-code-img {
   padding: 1.6rem 1.6rem 0rem;
   margin-bottom: 2.4rem;
 }
